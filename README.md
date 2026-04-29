@@ -214,3 +214,7 @@ Collect → Detect → Score → Explain → Visualize
 ✔ AI-integrated  
 ✔ Dashboard-ready  
 ✔ Portfolio-ready  
+
+---
+
+This repository is intended as a portfolio case study; source code and proprietary implementation details are not publicly included.
